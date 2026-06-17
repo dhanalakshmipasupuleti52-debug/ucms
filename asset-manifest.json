@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ucms/static/css/main.e1e9625b.css",
+    "main.js": "/ucms/static/js/main.3b73d385.js",
+    "index.html": "/ucms/index.html",
+    "main.e1e9625b.css.map": "/ucms/static/css/main.e1e9625b.css.map",
+    "main.3b73d385.js.map": "/ucms/static/js/main.3b73d385.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e9625b.css",
+    "static/js/main.3b73d385.js"
+  ]
+}
